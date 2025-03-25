@@ -1,1 +1,5 @@
 package convertthaibath
+
+func main() {
+
+}
