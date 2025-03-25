@@ -1,5 +1,0 @@
-package convertthaibath
-
-func main() {
-
-}
